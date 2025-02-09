@@ -1,0 +1,78 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set a base font and background color */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+  padding: 20px;
+}
+
+/* Simple container */
+/*
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+*/
+
+/* Basic typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+/* Simple button style */
+
+/*
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+*/
+
+.video-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  width: 300px;
+  line-height: 26px;
+  margin-bottom: 6px;
+}
+
+.video-stats {
+  color: gray;
+}
+
+.video-author {
+  color: gray;
+}
+
+.video-description {
+  color: gray;
+}
